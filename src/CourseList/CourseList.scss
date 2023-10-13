@@ -1,0 +1,16 @@
+.courselist-container{
+    &__head{
+        margin-bottom: 1rem;
+        text-align: center;
+        button{
+            width: 10%;
+            border-radius: 0.5rem;
+        }
+    }
+    &__table{
+        border: 2px solid black;
+        margin: 0 2rem;
+        border-radius: 0.5rem;
+        overflow: hidden;
+    }
+}

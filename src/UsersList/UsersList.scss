@@ -1,0 +1,9 @@
+.userlist-container{
+    // background-color: #b7ac9e;
+    &__table{
+        border: 2px solid black;
+        margin: 0 2rem;
+        border-radius: 0.5rem;
+        overflow: hidden;
+    }
+}
